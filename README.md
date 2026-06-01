@@ -20,6 +20,9 @@ The progam works as follows:
 6. Those saved points are drawn as a trajectory trail.
 7. The annotated frame is shown on screen and saved to a new video file.
 
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/9a2609bf-4924-4800-8a45-6e85dd814931" />
+
+
 ---
 
 ## Technologies Used
